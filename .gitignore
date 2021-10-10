@@ -1,0 +1,6 @@
+# Data
+data/external/
+
+# Cached files
+*.pyc
+**/__pycache__/
